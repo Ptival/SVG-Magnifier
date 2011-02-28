@@ -1,0 +1,6 @@
+This project is a SVG + JavaScript magnifier that builds on top of an existing SVG (via jQuery).
+
+It only works Firefox-ish browsers to my knowledge (i.e. I tested it in Firefox and Iceweasel).
+
+It is based on the famous web example of the magnifier for the lion:
+http://www.razorvine.net/canvas_css3/svg-lion.xml
